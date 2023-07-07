@@ -54,3 +54,6 @@ https://bhagavadgita.io/contact/
 [^note]:
     Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
     This footnote also has been made with a different syntax using 4 spaces for new lines.
+
+# Git Information
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
