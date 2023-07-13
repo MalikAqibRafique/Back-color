@@ -66,8 +66,4 @@ background: url(path/image2/prop2.jpg)
 ![Logo-image](/image2/github-image.png)
 ![dog-image](/image2/images-dogs.jpg)
 ![Logo-image](/image2/github-image.jpg)
-
-# Git Information
-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
-
-background: url(path/image2/prop2.jpg)
+Hi! Here is conflict created
