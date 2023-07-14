@@ -81,8 +81,8 @@ Git is a free and open source distributed version control system designed to han
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
 # Image
-![](/image2/images-dogs.jpg).
+![](/image2/images-dogs.jpg)
 
-![](/image2/images-dogs.jpg).
+![](/image2/images-dogs.jpg)
 
- <img src="/image2/images-dogs.jpg" alt="alt text" width="100" height="100">
+ <img src="/image2/images-dogs.jpg" alt="alt text" width="300" height="300">
