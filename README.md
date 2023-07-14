@@ -83,4 +83,6 @@ Git is a free and open source distributed version control system designed to han
 # Image
 ![](/image2/images-dogs.jpg).
 
-![](/image2/images-dogs.jpg)
+![](/image2/images-dogs.jpg).
+
+ <img src="/image2/images-dogs.jpg" alt="alt text" width="100" height="100">
